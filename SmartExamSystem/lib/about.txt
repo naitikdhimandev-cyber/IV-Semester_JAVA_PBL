@@ -1,0 +1,1 @@
+This Lib , folder includes all the necessary foles for the opencv.
