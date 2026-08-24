@@ -315,8 +315,8 @@ SmartExamSystem/
 
 ## 👤 Author & Acknowledgments
 
-* **Developer:** [Naitik Dhiman](https://github.com/naitikdhiman)
-* **Course:** Java Project-Based Learning (Semester III)
+* **Developer:** [Naitik Dhiman](https://github.com/naitikdhiman), Krish Gupta, Sneha Negi, Vanshika Bhatt
+* **Course:** Java Project-Based Learning (Semester IV)
 * **Special Thanks:** Open source contributors to the OpenCV and SQLite-JDBC projects.
 
 ---
